@@ -9,3 +9,9 @@ With no access to graphics texts or the internet, the rotating isometric viewpoi
   * from there I remember having a lot of difficulty as an early-teen coming up with the idea of basis vectors. 
 
 These files were recovered from an old floppy disk, likely an active work disk.
+
+![Final version](Media/Final.png)
+![Proving that I had difficulty with the concept of basis vectors](Media/BrokenBasis.png)
+![Experiments in shaded circles](Media/GradientTest.png)
+![An early n-gon test](Media/NGonTest.png)
+![An early object test](Media/TriSphere.png)
