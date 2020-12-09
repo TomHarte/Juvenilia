@@ -17,4 +17,6 @@ Unfinished and unreleased; a game designed by [Hawken King](http://www.hawkenkin
 
 Source code and assets survive but as it was a collaborative effort I'll need to enquire before publishing.
 
+This was an OpenGL ES 1.1 title, i.e. it uses the pre-2.0 fixed pipeline, but with the ES twist of no immediate mode. It was also prior to my getting especially well-acquainted with either Objective-C or then-semi-recent C++ so it looks a lot like C with better scoping.
+
 ![Screenshot of 18/11/2008](Media/Deathball/Screenshot%202008-11-18%2008_36_52%20+0000-1.png)
