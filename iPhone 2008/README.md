@@ -13,7 +13,7 @@ Source code is lost.
 
 ## Deathball
 
-Unfinished and unreleased; a game designed by [Hawken King](http://www.hawkenking.com) which was a twist on the then-popular tilt-controlled rolling ball genre.
+Unfinished and unreleased; a game designed by [Hawken King](http://www.hawkenking.com) which was a twist on the then-popular tilt-controlled rolling ball genre. The screenshot below is from an early development version though, and does not represent Hawken's design talent. Some assets are placeholders or otherwise exploratory.
 
 Source code and assets survive but as it was a collaborative effort I'll need to enquire before publishing.
 
