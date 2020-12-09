@@ -1,4 +1,4 @@
-# Z80Em
+# Z80Em [c. 1998]
 
 My first multimachine emulator; makes inaccurate approximations of:
 * the ZX Spectrum;
