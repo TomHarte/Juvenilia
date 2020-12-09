@@ -16,9 +16,9 @@ This means that when portals intersect the camera, the content behind them is of
 
 By now I have definitely had access to some web sites with discussion of 3d mathematics and polygon rasterisation, but topics like clipping remained homespun solutions.
 
-![Media/Descartes1.png]
-![Media/Descartes2.png]
-![Media/Descartes3.png]
+![Corridor Section 1](Media/Descartes1.png)
+![Corridor Section 2](Media/Descartes2.png)
+![Corridor Section 3](Media/Descartes3.png)
 
 ## Original Readme
 
